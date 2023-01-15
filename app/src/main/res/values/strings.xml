@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MorseCodeConverter</string>
+
+    <string name="morse_to_alphabet">Morse code to Alphabet</string>
+    <string name="alphabet_to_morse">Alphabet to Morse code</string>
+
+    <string name="morse_title">Morse Code String</string>
+    <string name="alphabet_title">Alphabet String</string>
+    <string name="input_title">Input:</string>
+    <string name="output_title">Output:</string>
+
+    <string name="btn_conversion">CONVERSION</string>
+    <string name="btn_short">·</string>
+    <string name="btn_long">–</string>
+    <string name="btn_space">[ _ ]</string>
+
+    <string name="rb_morse_to_alphabet">Morse code to Alphabet</string>
+    <string name="rb_alphabet_to_morse">Alphabet to Morse code</string>
 </resources>
